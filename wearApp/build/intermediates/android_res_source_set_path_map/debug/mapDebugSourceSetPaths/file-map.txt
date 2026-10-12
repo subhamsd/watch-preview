@@ -1,0 +1,8 @@
+com.wristview.wear.wearApp-pngs-0 /Users/subhamdubey/AndroidStudioProjects/hackaton2026/wearApp/build/generated/res/pngs/debug
+com.wristview.wear.wearApp-updated_navigation_xml-1 /Users/subhamdubey/AndroidStudioProjects/hackaton2026/wearApp/build/generated/updated_navigation_xml/debug
+com.wristview.wear.wearApp-packageDebugResources-2 /Users/subhamdubey/AndroidStudioProjects/hackaton2026/wearApp/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.wristview.wear.wearApp-packageDebugResources-3 /Users/subhamdubey/AndroidStudioProjects/hackaton2026/wearApp/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.wristview.wear.wearApp-debug-4 /Users/subhamdubey/AndroidStudioProjects/hackaton2026/wearApp/build/intermediates/merged_res/debug/mergeDebugResources
+com.wristview.wear.wearApp-debug-5 /Users/subhamdubey/AndroidStudioProjects/hackaton2026/wearApp/src/debug/res
+com.wristview.wear.wearApp-main-6 /Users/subhamdubey/AndroidStudioProjects/hackaton2026/wearApp/src/main/res
+gradleHome-0 /Users/subhamdubey/.gradle

@@ -1,0 +1,22 @@
+#Sat Oct 10 22:50:38 IST 2026
+base.0=/Users/subhamdubey/AndroidStudioProjects/hackaton2026/wearApp/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/subhamdubey/AndroidStudioProjects/hackaton2026/wearApp/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Users/subhamdubey/AndroidStudioProjects/hackaton2026/wearApp/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
+base.3=/Users/subhamdubey/AndroidStudioProjects/hackaton2026/wearApp/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
+base.4=/Users/subhamdubey/AndroidStudioProjects/hackaton2026/wearApp/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
+base.5=/Users/subhamdubey/AndroidStudioProjects/hackaton2026/wearApp/build/intermediates/global_synthetics_dex/debug/generateDebugGlobalSynthetics/classes.dex
+base.6=/Users/subhamdubey/AndroidStudioProjects/hackaton2026/wearApp/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=12/classes.dex
+path.3=2/classes.dex
+path.4=4/classes.dex
+path.5=classes.dex
+path.6=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
+renamed.4=classes5.dex
+renamed.5=classes6.dex
+renamed.6=classes7.dex
